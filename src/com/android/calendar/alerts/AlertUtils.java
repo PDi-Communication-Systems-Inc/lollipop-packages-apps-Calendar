@@ -42,7 +42,7 @@ import java.util.TimeZone;
 
 public class AlertUtils {
     private static final String TAG = "AlertUtils";
-    static final boolean DEBUG = true;
+    static final boolean DEBUG = false;
 
     public static final long SNOOZE_DELAY = 5 * 60 * 1000L;
 
